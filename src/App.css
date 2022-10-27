@@ -6,6 +6,24 @@
   height: 40vmin;
   pointer-events: none;
 }
+.dbtn{
+  background-color: red;
+  border-radius: 10px;
+}
+.cdbtn{
+  background-color: red;
+  border-radius: 10px;
+}
+.ibtn{
+  background-color: aqua;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.cibtn{
+  background-color: aqua;
+  border-radius: 10px;
+  margin-right: 10px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
